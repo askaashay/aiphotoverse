@@ -2,6 +2,8 @@
 
 Welcome to **AI Photoverse**, an interactive AI-powered photo booth application that transforms your real-time camera captures into beautifully stylized, high-resolution artistic grid collages!
 
+🚀 **Try it live here:** [https://ai-photoverse-553934249511.us-west2.run.app](https://ai-photoverse-553934249511.us-west2.run.app)
+
 Created with 💙 and creativity by **Aashay Vyas** and **Ohm Darera**, both talented **4th-grade students** at **Stratford School in Sunnyvale, California**! The entire project was "vibe coded" using **Google AI Studio** with helpful parent supervision.
 
 ---
