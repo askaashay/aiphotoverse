@@ -1,0 +1,6 @@
+{
+  "name": "AI Photoverse",
+  "description": "An AI-powered photo booth that transforms your real-time captures into stylized artistic collages.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["imageGeneration", "cameraAccess"]
+}
